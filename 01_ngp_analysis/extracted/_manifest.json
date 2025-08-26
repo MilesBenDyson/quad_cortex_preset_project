@@ -1,0 +1,16 @@
+[
+  {
+    "path": "root.payload",
+    "kind": "binary",
+    "size": 7359431,
+    "sha256_16": "9dc51ddd32da76f2",
+    "file": "01_ngp_analysis/extracted\\0001_root.payload.bin"
+  },
+  {
+    "path": "root.payload_hash",
+    "kind": "binary",
+    "size": 48,
+    "sha256_16": "4f5bac5a2d4cf75a",
+    "file": "01_ngp_analysis/extracted\\0002_root.payload_hash.bin"
+  }
+]

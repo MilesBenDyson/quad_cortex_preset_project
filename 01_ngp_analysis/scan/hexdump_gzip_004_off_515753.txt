@@ -1,0 +1,8 @@
+0007dea9  1f 8b 4a f5 62 b3 41 77 d6 29 c2 4d 7d ea 65 77   ..J.b.Aw.).M}.ew
+0007deb9  aa 03 1c 47 7e ce a6 96 a3 aa 93 46 1c 5a c9 8c   ...G~......F.Z..
+0007dec9  92 15 f7 4f a0 5b 01 af 69 3b 74 05 ff 75 11 90   ...O.[..i;t..u..
+0007ded9  bc 98 44 58 8e 81 19 9f ce a5 0e 5b 45 51 7f 72   ..DX.......[EQ.r
+0007dee9  9e b4 8f 2f 15 e3 0f f7 11 dd 73 bf 09 d7 23 30   .../......s...#0
+0007def9  88 42 d7 77 8b 22 a3 5b e5 f3 dd ca 78 f4 51 c3   .B.w.".[....x.Q.
+0007df09  cf 1f f1 da b7 64 59 e5 5d f8 13 9e 2e 62 8d 68   .....dY.]....b.h
+0007df19  58 a9 bd 50 6e 34 c5 16 b7 8f b7 2b e9 84 ff 8c   X..Pn4.....+....

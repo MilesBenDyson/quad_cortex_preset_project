@@ -1,0 +1,3332 @@
+[
+  {
+    "index": 0,
+    "offset": 596,
+    "end": 14231,
+    "size": 13635,
+    "sha256_16": "34c96f91b5b219b6",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_596_idx_0.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_596_idx_0_hexdump.txt"
+  },
+  {
+    "index": 1,
+    "offset": 14231,
+    "end": 52272,
+    "size": 38041,
+    "sha256_16": "a8388a2a25b38687",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_14231_idx_1.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_14231_idx_1_hexdump.txt"
+  },
+  {
+    "index": 2,
+    "offset": 52272,
+    "end": 68085,
+    "size": 15813,
+    "sha256_16": "ab28bc75fdf8e5c4",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_52272_idx_2.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_52272_idx_2_hexdump.txt"
+  },
+  {
+    "index": 3,
+    "offset": 68085,
+    "end": 106687,
+    "size": 38602,
+    "sha256_16": "835b8575e1910616",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_68085_idx_3.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_68085_idx_3_hexdump.txt"
+  },
+  {
+    "index": 4,
+    "offset": 106687,
+    "end": 132798,
+    "size": 26111,
+    "sha256_16": "f81aa31c8165f219",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_106687_idx_4.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_106687_idx_4_hexdump.txt"
+  },
+  {
+    "index": 5,
+    "offset": 132798,
+    "end": 144261,
+    "size": 11463,
+    "sha256_16": "b1ddfcf3a3b8b507",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_132798_idx_5.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_132798_idx_5_hexdump.txt"
+  },
+  {
+    "index": 6,
+    "offset": 144261,
+    "end": 147458,
+    "size": 3197,
+    "sha256_16": "5396d9f71f796d81",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_144261_idx_6.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_144261_idx_6_hexdump.txt"
+  },
+  {
+    "index": 7,
+    "offset": 147458,
+    "end": 151564,
+    "size": 4106,
+    "sha256_16": "c1e8e1cd6851a1d2",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_147458_idx_7.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_147458_idx_7_hexdump.txt"
+  },
+  {
+    "index": 8,
+    "offset": 151564,
+    "end": 224657,
+    "size": 73093,
+    "sha256_16": "961dd9a03d359c7c",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_151564_idx_8.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_151564_idx_8_hexdump.txt"
+  },
+  {
+    "index": 9,
+    "offset": 224657,
+    "end": 248450,
+    "size": 23793,
+    "sha256_16": "51b5c202918b81f1",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_224657_idx_9.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_224657_idx_9_hexdump.txt"
+  },
+  {
+    "index": 10,
+    "offset": 248450,
+    "end": 262127,
+    "size": 13677,
+    "sha256_16": "dcbabb2e24b48a0f",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_248450_idx_10.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_248450_idx_10_hexdump.txt"
+  },
+  {
+    "index": 11,
+    "offset": 262127,
+    "end": 263283,
+    "size": 1156,
+    "sha256_16": "b7139c74ae9718f5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_262127_idx_11.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_262127_idx_11_hexdump.txt"
+  },
+  {
+    "index": 12,
+    "offset": 263283,
+    "end": 318416,
+    "size": 55133,
+    "sha256_16": "18d9c6692bd1bd2a",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_263283_idx_12.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_263283_idx_12_hexdump.txt"
+  },
+  {
+    "index": 13,
+    "offset": 318416,
+    "end": 328010,
+    "size": 9594,
+    "sha256_16": "411eb56024924e1d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_318416_idx_13.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_318416_idx_13_hexdump.txt"
+  },
+  {
+    "index": 14,
+    "offset": 328010,
+    "end": 331410,
+    "size": 3400,
+    "sha256_16": "f4706cbe6f2b1657",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_328010_idx_14.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_328010_idx_14_hexdump.txt"
+  },
+  {
+    "index": 15,
+    "offset": 331410,
+    "end": 335392,
+    "size": 3982,
+    "sha256_16": "17d62426a0627c29",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_331410_idx_15.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_331410_idx_15_hexdump.txt"
+  },
+  {
+    "index": 16,
+    "offset": 335392,
+    "end": 350857,
+    "size": 15465,
+    "sha256_16": "4689f65653cc525a",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_335392_idx_16.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_335392_idx_16_hexdump.txt"
+  },
+  {
+    "index": 17,
+    "offset": 350857,
+    "end": 359244,
+    "size": 8387,
+    "sha256_16": "4710bf117bfe6529",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_350857_idx_17.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_350857_idx_17_hexdump.txt"
+  },
+  {
+    "index": 18,
+    "offset": 359244,
+    "end": 360843,
+    "size": 1599,
+    "sha256_16": "a89fda9915d1ec3a",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_359244_idx_18.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_359244_idx_18_hexdump.txt"
+  },
+  {
+    "index": 19,
+    "offset": 360843,
+    "end": 473760,
+    "size": 112917,
+    "sha256_16": "7eb6157def3aa748",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_360843_idx_19.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_360843_idx_19_hexdump.txt"
+  },
+  {
+    "index": 20,
+    "offset": 473760,
+    "end": 479575,
+    "size": 5815,
+    "sha256_16": "b22feb50dc238be5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_473760_idx_20.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_473760_idx_20_hexdump.txt"
+  },
+  {
+    "index": 21,
+    "offset": 479575,
+    "end": 490901,
+    "size": 11326,
+    "sha256_16": "12b984c937973a6a",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_479575_idx_21.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_479575_idx_21_hexdump.txt"
+  },
+  {
+    "index": 22,
+    "offset": 490901,
+    "end": 518862,
+    "size": 27961,
+    "sha256_16": "761e47e513b353fe",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_490901_idx_22.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_490901_idx_22_hexdump.txt"
+  },
+  {
+    "index": 23,
+    "offset": 518862,
+    "end": 600276,
+    "size": 81414,
+    "sha256_16": "908d2382391b586d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_518862_idx_23.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_518862_idx_23_hexdump.txt"
+  },
+  {
+    "index": 24,
+    "offset": 600276,
+    "end": 646605,
+    "size": 46329,
+    "sha256_16": "68ba27cc3af99ff5",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_600276_idx_24.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_600276_idx_24_hexdump.txt"
+  },
+  {
+    "index": 25,
+    "offset": 646605,
+    "end": 652214,
+    "size": 5609,
+    "sha256_16": "9027135e07b8137f",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_646605_idx_25.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_646605_idx_25_hexdump.txt"
+  },
+  {
+    "index": 26,
+    "offset": 652214,
+    "end": 693679,
+    "size": 41465,
+    "sha256_16": "57920e62fb4ddbdc",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_652214_idx_26.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_652214_idx_26_hexdump.txt"
+  },
+  {
+    "index": 27,
+    "offset": 693679,
+    "end": 716840,
+    "size": 23161,
+    "sha256_16": "53886d004c8a8745",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_693679_idx_27.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_693679_idx_27_hexdump.txt"
+  },
+  {
+    "index": 28,
+    "offset": 716840,
+    "end": 727992,
+    "size": 11152,
+    "sha256_16": "7ebb63a78f9f1c16",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_716840_idx_28.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_716840_idx_28_hexdump.txt"
+  },
+  {
+    "index": 29,
+    "offset": 727992,
+    "end": 728291,
+    "size": 299,
+    "sha256_16": "e08bd8aa512ffe70",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_727992_idx_29.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_727992_idx_29_hexdump.txt"
+  },
+  {
+    "index": 30,
+    "offset": 728291,
+    "end": 774842,
+    "size": 46551,
+    "sha256_16": "e2a8ad1128ade281",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_728291_idx_30.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_728291_idx_30_hexdump.txt"
+  },
+  {
+    "index": 31,
+    "offset": 774842,
+    "end": 846667,
+    "size": 71825,
+    "sha256_16": "bb6c42d0fb709026",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_774842_idx_31.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_774842_idx_31_hexdump.txt"
+  },
+  {
+    "index": 32,
+    "offset": 846667,
+    "end": 847028,
+    "size": 361,
+    "sha256_16": "569072144c246910",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_846667_idx_32.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_846667_idx_32_hexdump.txt"
+  },
+  {
+    "index": 33,
+    "offset": 847028,
+    "end": 869228,
+    "size": 22200,
+    "sha256_16": "2dd887f1760b5895",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_847028_idx_33.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_847028_idx_33_hexdump.txt"
+  },
+  {
+    "index": 34,
+    "offset": 869228,
+    "end": 905199,
+    "size": 35971,
+    "sha256_16": "00e801044681095d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_869228_idx_34.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_869228_idx_34_hexdump.txt"
+  },
+  {
+    "index": 35,
+    "offset": 905199,
+    "end": 928267,
+    "size": 23068,
+    "sha256_16": "6608dbe0dfe28c94",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_905199_idx_35.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_905199_idx_35_hexdump.txt"
+  },
+  {
+    "index": 36,
+    "offset": 928267,
+    "end": 1063228,
+    "size": 134961,
+    "sha256_16": "053540f1f1ffe169",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_928267_idx_36.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_928267_idx_36_hexdump.txt"
+  },
+  {
+    "index": 37,
+    "offset": 1063228,
+    "end": 1087268,
+    "size": 24040,
+    "sha256_16": "daf265838c477752",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1063228_idx_37.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1063228_idx_37_hexdump.txt"
+  },
+  {
+    "index": 38,
+    "offset": 1087268,
+    "end": 1095641,
+    "size": 8373,
+    "sha256_16": "2eacbe2870645e8f",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1087268_idx_38.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1087268_idx_38_hexdump.txt"
+  },
+  {
+    "index": 39,
+    "offset": 1095641,
+    "end": 1101366,
+    "size": 5725,
+    "sha256_16": "2fce7716f8f7625d",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1095641_idx_39.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1095641_idx_39_hexdump.txt"
+  },
+  {
+    "index": 40,
+    "offset": 1101366,
+    "end": 1136416,
+    "size": 35050,
+    "sha256_16": "43ad19e838c5dcfb",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1101366_idx_40.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1101366_idx_40_hexdump.txt"
+  },
+  {
+    "index": 41,
+    "offset": 1136416,
+    "end": 1138464,
+    "size": 2048,
+    "sha256_16": "3ae4aeb1277eab46",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1136416_idx_41.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1136416_idx_41_hexdump.txt"
+  },
+  {
+    "index": 42,
+    "offset": 1138464,
+    "end": 1141772,
+    "size": 3308,
+    "sha256_16": "065988f7d0f4d962",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1138464_idx_42.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1138464_idx_42_hexdump.txt"
+  },
+  {
+    "index": 43,
+    "offset": 1141772,
+    "end": 1161677,
+    "size": 19905,
+    "sha256_16": "7121df89a214b6d3",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1141772_idx_43.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1141772_idx_43_hexdump.txt"
+  },
+  {
+    "index": 44,
+    "offset": 1161677,
+    "end": 1173824,
+    "size": 12147,
+    "sha256_16": "2ca992bc276a6b23",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1161677_idx_44.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1161677_idx_44_hexdump.txt"
+  },
+  {
+    "index": 45,
+    "offset": 1173824,
+    "end": 1311866,
+    "size": 138042,
+    "sha256_16": "9cba13bb626debf1",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1173824_idx_45.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1173824_idx_45_hexdump.txt"
+  },
+  {
+    "index": 46,
+    "offset": 1311866,
+    "end": 1331451,
+    "size": 19585,
+    "sha256_16": "235143aa14a0fe1a",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1311866_idx_46.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1311866_idx_46_hexdump.txt"
+  },
+  {
+    "index": 47,
+    "offset": 1331451,
+    "end": 1356631,
+    "size": 25180,
+    "sha256_16": "8c24f9de74cbd1fd",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1331451_idx_47.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1331451_idx_47_hexdump.txt"
+  },
+  {
+    "index": 48,
+    "offset": 1356631,
+    "end": 1363324,
+    "size": 6693,
+    "sha256_16": "f5aa32fad7c3ec62",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1356631_idx_48.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1356631_idx_48_hexdump.txt"
+  },
+  {
+    "index": 49,
+    "offset": 1363324,
+    "end": 1367084,
+    "size": 3760,
+    "sha256_16": "2b2e7ccf1ff580fd",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1363324_idx_49.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1363324_idx_49_hexdump.txt"
+  },
+  {
+    "index": 50,
+    "offset": 1367084,
+    "end": 1398555,
+    "size": 31471,
+    "sha256_16": "e09f6fb59894ba30",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1367084_idx_50.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1367084_idx_50_hexdump.txt"
+  },
+  {
+    "index": 51,
+    "offset": 1398555,
+    "end": 1424522,
+    "size": 25967,
+    "sha256_16": "c4eea9c9dc40a9d1",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1398555_idx_51.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1398555_idx_51_hexdump.txt"
+  },
+  {
+    "index": 52,
+    "offset": 1424522,
+    "end": 1455475,
+    "size": 30953,
+    "sha256_16": "2149f155f834a82a",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1424522_idx_52.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1424522_idx_52_hexdump.txt"
+  },
+  {
+    "index": 53,
+    "offset": 1455475,
+    "end": 1481235,
+    "size": 25760,
+    "sha256_16": "7e94904ade6ba8eb",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1455475_idx_53.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1455475_idx_53_hexdump.txt"
+  },
+  {
+    "index": 54,
+    "offset": 1481235,
+    "end": 1568814,
+    "size": 87579,
+    "sha256_16": "7574a872c90a9203",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1481235_idx_54.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1481235_idx_54_hexdump.txt"
+  },
+  {
+    "index": 55,
+    "offset": 1568814,
+    "end": 1583795,
+    "size": 14981,
+    "sha256_16": "d8e03dcc95e79e0a",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1568814_idx_55.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1568814_idx_55_hexdump.txt"
+  },
+  {
+    "index": 56,
+    "offset": 1583795,
+    "end": 1617762,
+    "size": 33967,
+    "sha256_16": "19330d3c840b4642",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1583795_idx_56.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1583795_idx_56_hexdump.txt"
+  },
+  {
+    "index": 57,
+    "offset": 1617762,
+    "end": 1618680,
+    "size": 918,
+    "sha256_16": "738d96ba6276d216",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1617762_idx_57.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1617762_idx_57_hexdump.txt"
+  },
+  {
+    "index": 58,
+    "offset": 1618680,
+    "end": 1660242,
+    "size": 41562,
+    "sha256_16": "e4fbf329b52375c7",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1618680_idx_58.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1618680_idx_58_hexdump.txt"
+  },
+  {
+    "index": 59,
+    "offset": 1660242,
+    "end": 1680724,
+    "size": 20482,
+    "sha256_16": "2f9fda54bfb4d701",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1660242_idx_59.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1660242_idx_59_hexdump.txt"
+  },
+  {
+    "index": 60,
+    "offset": 1680724,
+    "end": 1681607,
+    "size": 883,
+    "sha256_16": "5f215da4a6a5047c",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1680724_idx_60.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1680724_idx_60_hexdump.txt"
+  },
+  {
+    "index": 61,
+    "offset": 1681607,
+    "end": 1683058,
+    "size": 1451,
+    "sha256_16": "c55ddc9e40126794",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1681607_idx_61.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1681607_idx_61_hexdump.txt"
+  },
+  {
+    "index": 62,
+    "offset": 1683058,
+    "end": 1685605,
+    "size": 2547,
+    "sha256_16": "8d93eae0e39fcace",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1683058_idx_62.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1683058_idx_62_hexdump.txt"
+  },
+  {
+    "index": 63,
+    "offset": 1685605,
+    "end": 1689342,
+    "size": 3737,
+    "sha256_16": "0ccab17cb59426b9",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1685605_idx_63.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1685605_idx_63_hexdump.txt"
+  },
+  {
+    "index": 64,
+    "offset": 1689342,
+    "end": 1720141,
+    "size": 30799,
+    "sha256_16": "c81038d9eabce980",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1689342_idx_64.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1689342_idx_64_hexdump.txt"
+  },
+  {
+    "index": 65,
+    "offset": 1720141,
+    "end": 1730449,
+    "size": 10308,
+    "sha256_16": "881f31ddc45f8931",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1720141_idx_65.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1720141_idx_65_hexdump.txt"
+  },
+  {
+    "index": 66,
+    "offset": 1730449,
+    "end": 1739108,
+    "size": 8659,
+    "sha256_16": "e48517e22618fae8",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1730449_idx_66.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1730449_idx_66_hexdump.txt"
+  },
+  {
+    "index": 67,
+    "offset": 1739108,
+    "end": 1745676,
+    "size": 6568,
+    "sha256_16": "cf6aec7c11eb4f0e",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1739108_idx_67.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1739108_idx_67_hexdump.txt"
+  },
+  {
+    "index": 68,
+    "offset": 1745676,
+    "end": 1761771,
+    "size": 16095,
+    "sha256_16": "f2f394dff2285089",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1745676_idx_68.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1745676_idx_68_hexdump.txt"
+  },
+  {
+    "index": 69,
+    "offset": 1761771,
+    "end": 1763336,
+    "size": 1565,
+    "sha256_16": "fa984ec02cca5d35",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1761771_idx_69.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1761771_idx_69_hexdump.txt"
+  },
+  {
+    "index": 70,
+    "offset": 1763336,
+    "end": 1783321,
+    "size": 19985,
+    "sha256_16": "f19c3d95494640e0",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1763336_idx_70.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1763336_idx_70_hexdump.txt"
+  },
+  {
+    "index": 71,
+    "offset": 1783321,
+    "end": 1794606,
+    "size": 11285,
+    "sha256_16": "af88058075a79ec2",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1783321_idx_71.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1783321_idx_71_hexdump.txt"
+  },
+  {
+    "index": 72,
+    "offset": 1794606,
+    "end": 1823057,
+    "size": 28451,
+    "sha256_16": "bb7ce208fd5ff58b",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1794606_idx_72.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1794606_idx_72_hexdump.txt"
+  },
+  {
+    "index": 73,
+    "offset": 1823057,
+    "end": 1843395,
+    "size": 20338,
+    "sha256_16": "7076b494f59ed9c9",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1823057_idx_73.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1823057_idx_73_hexdump.txt"
+  },
+  {
+    "index": 74,
+    "offset": 1843395,
+    "end": 1849508,
+    "size": 6113,
+    "sha256_16": "8d4d4c426845e62f",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1843395_idx_74.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1843395_idx_74_hexdump.txt"
+  },
+  {
+    "index": 75,
+    "offset": 1849508,
+    "end": 1882581,
+    "size": 33073,
+    "sha256_16": "8b67868912c220e8",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1849508_idx_75.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1849508_idx_75_hexdump.txt"
+  },
+  {
+    "index": 76,
+    "offset": 1882581,
+    "end": 1883281,
+    "size": 700,
+    "sha256_16": "4df1693998918b79",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1882581_idx_76.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1882581_idx_76_hexdump.txt"
+  },
+  {
+    "index": 77,
+    "offset": 1883281,
+    "end": 1948879,
+    "size": 65598,
+    "sha256_16": "8be1f4948d8bf788",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1883281_idx_77.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1883281_idx_77_hexdump.txt"
+  },
+  {
+    "index": 78,
+    "offset": 1948879,
+    "end": 1960148,
+    "size": 11269,
+    "sha256_16": "3de1d08ede098900",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1948879_idx_78.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1948879_idx_78_hexdump.txt"
+  },
+  {
+    "index": 79,
+    "offset": 1960148,
+    "end": 1965064,
+    "size": 4916,
+    "sha256_16": "07d478e8b491cf68",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1960148_idx_79.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1960148_idx_79_hexdump.txt"
+  },
+  {
+    "index": 80,
+    "offset": 1965064,
+    "end": 2012194,
+    "size": 47130,
+    "sha256_16": "109dd0ac28c003ac",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1965064_idx_80.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_1965064_idx_80_hexdump.txt"
+  },
+  {
+    "index": 81,
+    "offset": 2012194,
+    "end": 2033671,
+    "size": 21477,
+    "sha256_16": "fc9541756a484da6",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2012194_idx_81.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2012194_idx_81_hexdump.txt"
+  },
+  {
+    "index": 82,
+    "offset": 2033671,
+    "end": 2057073,
+    "size": 23402,
+    "sha256_16": "0179e927ea801b4c",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2033671_idx_82.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2033671_idx_82_hexdump.txt"
+  },
+  {
+    "index": 83,
+    "offset": 2057073,
+    "end": 2088592,
+    "size": 31519,
+    "sha256_16": "a35fbf21f574e4d0",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2057073_idx_83.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2057073_idx_83_hexdump.txt"
+  },
+  {
+    "index": 84,
+    "offset": 2088592,
+    "end": 2125235,
+    "size": 36643,
+    "sha256_16": "dcb2b4c21760ef3e",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2088592_idx_84.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2088592_idx_84_hexdump.txt"
+  },
+  {
+    "index": 85,
+    "offset": 2125235,
+    "end": 2155614,
+    "size": 30379,
+    "sha256_16": "1f783036969e9d40",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2125235_idx_85.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2125235_idx_85_hexdump.txt"
+  },
+  {
+    "index": 86,
+    "offset": 2155614,
+    "end": 2178337,
+    "size": 22723,
+    "sha256_16": "09d7e0144bbbc9d5",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2155614_idx_86.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2155614_idx_86_hexdump.txt"
+  },
+  {
+    "index": 87,
+    "offset": 2178337,
+    "end": 2179711,
+    "size": 1374,
+    "sha256_16": "493b8007b7a85f0d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2178337_idx_87.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2178337_idx_87_hexdump.txt"
+  },
+  {
+    "index": 88,
+    "offset": 2179711,
+    "end": 2183785,
+    "size": 4074,
+    "sha256_16": "5ee343347c1c52fd",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2179711_idx_88.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2179711_idx_88_hexdump.txt"
+  },
+  {
+    "index": 89,
+    "offset": 2183785,
+    "end": 2276898,
+    "size": 93113,
+    "sha256_16": "e30e84c59dfee1c8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2183785_idx_89.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2183785_idx_89_hexdump.txt"
+  },
+  {
+    "index": 90,
+    "offset": 2276898,
+    "end": 2278372,
+    "size": 1474,
+    "sha256_16": "ad0a65ac268b396d",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2276898_idx_90.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2276898_idx_90_hexdump.txt"
+  },
+  {
+    "index": 91,
+    "offset": 2278372,
+    "end": 2282811,
+    "size": 4439,
+    "sha256_16": "80cae0c8a6e606d6",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2278372_idx_91.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2278372_idx_91_hexdump.txt"
+  },
+  {
+    "index": 92,
+    "offset": 2282811,
+    "end": 2303324,
+    "size": 20513,
+    "sha256_16": "fc4f6d12ea133c90",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2282811_idx_92.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2282811_idx_92_hexdump.txt"
+  },
+  {
+    "index": 93,
+    "offset": 2303324,
+    "end": 2310616,
+    "size": 7292,
+    "sha256_16": "9c0aa13c8b7e97c2",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2303324_idx_93.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2303324_idx_93_hexdump.txt"
+  },
+  {
+    "index": 94,
+    "offset": 2310616,
+    "end": 2314511,
+    "size": 3895,
+    "sha256_16": "13f2b62a6b017a9c",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2310616_idx_94.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2310616_idx_94_hexdump.txt"
+  },
+  {
+    "index": 95,
+    "offset": 2314511,
+    "end": 2336459,
+    "size": 21948,
+    "sha256_16": "0b8525272fc18870",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2314511_idx_95.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2314511_idx_95_hexdump.txt"
+  },
+  {
+    "index": 96,
+    "offset": 2336459,
+    "end": 2345142,
+    "size": 8683,
+    "sha256_16": "fff4b22db340c7a0",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2336459_idx_96.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2336459_idx_96_hexdump.txt"
+  },
+  {
+    "index": 97,
+    "offset": 2345142,
+    "end": 2379844,
+    "size": 34702,
+    "sha256_16": "738d06f55432e2de",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2345142_idx_97.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2345142_idx_97_hexdump.txt"
+  },
+  {
+    "index": 98,
+    "offset": 2379844,
+    "end": 2390801,
+    "size": 10957,
+    "sha256_16": "e58336b07e605343",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2379844_idx_98.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2379844_idx_98_hexdump.txt"
+  },
+  {
+    "index": 99,
+    "offset": 2390801,
+    "end": 2402323,
+    "size": 11522,
+    "sha256_16": "035b9499eb209312",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2390801_idx_99.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2390801_idx_99_hexdump.txt"
+  },
+  {
+    "index": 100,
+    "offset": 2402323,
+    "end": 2411666,
+    "size": 9343,
+    "sha256_16": "14e24ba8feffa439",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2402323_idx_100.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2402323_idx_100_hexdump.txt"
+  },
+  {
+    "index": 101,
+    "offset": 2411666,
+    "end": 2444382,
+    "size": 32716,
+    "sha256_16": "cc8e76e40477df53",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2411666_idx_101.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2411666_idx_101_hexdump.txt"
+  },
+  {
+    "index": 102,
+    "offset": 2444382,
+    "end": 2495999,
+    "size": 51617,
+    "sha256_16": "e1458071b443be5e",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2444382_idx_102.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2444382_idx_102_hexdump.txt"
+  },
+  {
+    "index": 103,
+    "offset": 2495999,
+    "end": 2501108,
+    "size": 5109,
+    "sha256_16": "f9a848bce3b75315",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2495999_idx_103.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2495999_idx_103_hexdump.txt"
+  },
+  {
+    "index": 104,
+    "offset": 2501108,
+    "end": 2538575,
+    "size": 37467,
+    "sha256_16": "af71392e991bc52a",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2501108_idx_104.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2501108_idx_104_hexdump.txt"
+  },
+  {
+    "index": 105,
+    "offset": 2538575,
+    "end": 2561966,
+    "size": 23391,
+    "sha256_16": "2a9e54498a023c55",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2538575_idx_105.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2538575_idx_105_hexdump.txt"
+  },
+  {
+    "index": 106,
+    "offset": 2561966,
+    "end": 2597049,
+    "size": 35083,
+    "sha256_16": "f2cd07f9661e8c2b",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2561966_idx_106.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2561966_idx_106_hexdump.txt"
+  },
+  {
+    "index": 107,
+    "offset": 2597049,
+    "end": 2601074,
+    "size": 4025,
+    "sha256_16": "a58de0859bb0049c",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2597049_idx_107.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2597049_idx_107_hexdump.txt"
+  },
+  {
+    "index": 108,
+    "offset": 2601074,
+    "end": 2669157,
+    "size": 68083,
+    "sha256_16": "4245eb08261d43b7",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2601074_idx_108.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2601074_idx_108_hexdump.txt"
+  },
+  {
+    "index": 109,
+    "offset": 2669157,
+    "end": 2671127,
+    "size": 1970,
+    "sha256_16": "cb0d8074758f14c0",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2669157_idx_109.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2669157_idx_109_hexdump.txt"
+  },
+  {
+    "index": 110,
+    "offset": 2671127,
+    "end": 2678564,
+    "size": 7437,
+    "sha256_16": "97d6bc957e769818",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2671127_idx_110.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2671127_idx_110_hexdump.txt"
+  },
+  {
+    "index": 111,
+    "offset": 2678564,
+    "end": 2718392,
+    "size": 39828,
+    "sha256_16": "9c67bd6e7814f4c1",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2678564_idx_111.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2678564_idx_111_hexdump.txt"
+  },
+  {
+    "index": 112,
+    "offset": 2718392,
+    "end": 2738547,
+    "size": 20155,
+    "sha256_16": "62a2fe8f7d796b35",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2718392_idx_112.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2718392_idx_112_hexdump.txt"
+  },
+  {
+    "index": 113,
+    "offset": 2738547,
+    "end": 2743205,
+    "size": 4658,
+    "sha256_16": "e3cd7f84c25d85f1",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2738547_idx_113.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2738547_idx_113_hexdump.txt"
+  },
+  {
+    "index": 114,
+    "offset": 2743205,
+    "end": 2748024,
+    "size": 4819,
+    "sha256_16": "712a6923d0b87b72",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2743205_idx_114.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2743205_idx_114_hexdump.txt"
+  },
+  {
+    "index": 115,
+    "offset": 2748024,
+    "end": 2774389,
+    "size": 26365,
+    "sha256_16": "114911ec8342c249",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2748024_idx_115.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2748024_idx_115_hexdump.txt"
+  },
+  {
+    "index": 116,
+    "offset": 2774389,
+    "end": 2782838,
+    "size": 8449,
+    "sha256_16": "166b63ea0fcb8ec4",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2774389_idx_116.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2774389_idx_116_hexdump.txt"
+  },
+  {
+    "index": 117,
+    "offset": 2782838,
+    "end": 2832849,
+    "size": 50011,
+    "sha256_16": "082b81c705334e26",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2782838_idx_117.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2782838_idx_117_hexdump.txt"
+  },
+  {
+    "index": 118,
+    "offset": 2832849,
+    "end": 2847569,
+    "size": 14720,
+    "sha256_16": "48bcd505ef64ef8a",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2832849_idx_118.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2832849_idx_118_hexdump.txt"
+  },
+  {
+    "index": 119,
+    "offset": 2847569,
+    "end": 2849288,
+    "size": 1719,
+    "sha256_16": "ab1609529a269709",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2847569_idx_119.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2847569_idx_119_hexdump.txt"
+  },
+  {
+    "index": 120,
+    "offset": 2849288,
+    "end": 2851817,
+    "size": 2529,
+    "sha256_16": "2ee3d58061151de8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2849288_idx_120.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2849288_idx_120_hexdump.txt"
+  },
+  {
+    "index": 121,
+    "offset": 2851817,
+    "end": 2854323,
+    "size": 2506,
+    "sha256_16": "4d51ac4a5ecdf4f2",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2851817_idx_121.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2851817_idx_121_hexdump.txt"
+  },
+  {
+    "index": 122,
+    "offset": 2854323,
+    "end": 2855985,
+    "size": 1662,
+    "sha256_16": "60867ada628d4c29",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2854323_idx_122.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2854323_idx_122_hexdump.txt"
+  },
+  {
+    "index": 123,
+    "offset": 2855985,
+    "end": 2858542,
+    "size": 2557,
+    "sha256_16": "b8e6fe597808e9ad",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2855985_idx_123.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2855985_idx_123_hexdump.txt"
+  },
+  {
+    "index": 124,
+    "offset": 2858542,
+    "end": 2873883,
+    "size": 15341,
+    "sha256_16": "f7dc9d492765161c",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2858542_idx_124.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2858542_idx_124_hexdump.txt"
+  },
+  {
+    "index": 125,
+    "offset": 2873883,
+    "end": 2876243,
+    "size": 2360,
+    "sha256_16": "65ab441eae8883fb",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2873883_idx_125.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2873883_idx_125_hexdump.txt"
+  },
+  {
+    "index": 126,
+    "offset": 2876243,
+    "end": 2898119,
+    "size": 21876,
+    "sha256_16": "1e2b4d5fef0303e8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2876243_idx_126.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2876243_idx_126_hexdump.txt"
+  },
+  {
+    "index": 127,
+    "offset": 2898119,
+    "end": 2902113,
+    "size": 3994,
+    "sha256_16": "cdcb05243505fdc6",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2898119_idx_127.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2898119_idx_127_hexdump.txt"
+  },
+  {
+    "index": 128,
+    "offset": 2902113,
+    "end": 2914298,
+    "size": 12185,
+    "sha256_16": "c6a2b5ed24ca1161",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2902113_idx_128.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2902113_idx_128_hexdump.txt"
+  },
+  {
+    "index": 129,
+    "offset": 2914298,
+    "end": 2921148,
+    "size": 6850,
+    "sha256_16": "56b86c08f40a7feb",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2914298_idx_129.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2914298_idx_129_hexdump.txt"
+  },
+  {
+    "index": 130,
+    "offset": 2921148,
+    "end": 2936495,
+    "size": 15347,
+    "sha256_16": "4d2d0f087400c17a",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2921148_idx_130.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2921148_idx_130_hexdump.txt"
+  },
+  {
+    "index": 131,
+    "offset": 2936495,
+    "end": 2942563,
+    "size": 6068,
+    "sha256_16": "554c16f2ebe21d1e",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2936495_idx_131.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2936495_idx_131_hexdump.txt"
+  },
+  {
+    "index": 132,
+    "offset": 2942563,
+    "end": 2996199,
+    "size": 53636,
+    "sha256_16": "855e5dc439016f3c",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2942563_idx_132.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2942563_idx_132_hexdump.txt"
+  },
+  {
+    "index": 133,
+    "offset": 2996199,
+    "end": 3026712,
+    "size": 30513,
+    "sha256_16": "182799bb5a23d8c5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2996199_idx_133.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_2996199_idx_133_hexdump.txt"
+  },
+  {
+    "index": 134,
+    "offset": 3026712,
+    "end": 3042430,
+    "size": 15718,
+    "sha256_16": "76942ff60ab10aa2",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3026712_idx_134.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3026712_idx_134_hexdump.txt"
+  },
+  {
+    "index": 135,
+    "offset": 3042430,
+    "end": 3043474,
+    "size": 1044,
+    "sha256_16": "44be0512f0b23850",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3042430_idx_135.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3042430_idx_135_hexdump.txt"
+  },
+  {
+    "index": 136,
+    "offset": 3043474,
+    "end": 3063420,
+    "size": 19946,
+    "sha256_16": "a48087712cce52c8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3043474_idx_136.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3043474_idx_136_hexdump.txt"
+  },
+  {
+    "index": 137,
+    "offset": 3063420,
+    "end": 3084876,
+    "size": 21456,
+    "sha256_16": "31cb5f826f7d6146",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3063420_idx_137.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3063420_idx_137_hexdump.txt"
+  },
+  {
+    "index": 138,
+    "offset": 3084876,
+    "end": 3089241,
+    "size": 4365,
+    "sha256_16": "4be0e742b5790a83",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3084876_idx_138.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3084876_idx_138_hexdump.txt"
+  },
+  {
+    "index": 139,
+    "offset": 3089241,
+    "end": 3100037,
+    "size": 10796,
+    "sha256_16": "7dd0b0fec0093708",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3089241_idx_139.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3089241_idx_139_hexdump.txt"
+  },
+  {
+    "index": 140,
+    "offset": 3100037,
+    "end": 3120471,
+    "size": 20434,
+    "sha256_16": "3556470c11d811d5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3100037_idx_140.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3100037_idx_140_hexdump.txt"
+  },
+  {
+    "index": 141,
+    "offset": 3120471,
+    "end": 3128296,
+    "size": 7825,
+    "sha256_16": "c0c66e178d828b36",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3120471_idx_141.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3120471_idx_141_hexdump.txt"
+  },
+  {
+    "index": 142,
+    "offset": 3128296,
+    "end": 3137223,
+    "size": 8927,
+    "sha256_16": "a65c4e83652ae2ef",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3128296_idx_142.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3128296_idx_142_hexdump.txt"
+  },
+  {
+    "index": 143,
+    "offset": 3137223,
+    "end": 3144673,
+    "size": 7450,
+    "sha256_16": "1f75af6f8d2685b6",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3137223_idx_143.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3137223_idx_143_hexdump.txt"
+  },
+  {
+    "index": 144,
+    "offset": 3144673,
+    "end": 3158217,
+    "size": 13544,
+    "sha256_16": "62c7868dec64fa37",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3144673_idx_144.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3144673_idx_144_hexdump.txt"
+  },
+  {
+    "index": 145,
+    "offset": 3158217,
+    "end": 3218131,
+    "size": 59914,
+    "sha256_16": "fb3706e79a1d3196",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3158217_idx_145.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3158217_idx_145_hexdump.txt"
+  },
+  {
+    "index": 146,
+    "offset": 3218131,
+    "end": 3290667,
+    "size": 72536,
+    "sha256_16": "0c583b58cdcce188",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3218131_idx_146.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3218131_idx_146_hexdump.txt"
+  },
+  {
+    "index": 147,
+    "offset": 3290667,
+    "end": 3311588,
+    "size": 20921,
+    "sha256_16": "4ede47b8844c7e34",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3290667_idx_147.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3290667_idx_147_hexdump.txt"
+  },
+  {
+    "index": 148,
+    "offset": 3311588,
+    "end": 3328680,
+    "size": 17092,
+    "sha256_16": "c0a57b0d4b865687",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3311588_idx_148.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3311588_idx_148_hexdump.txt"
+  },
+  {
+    "index": 149,
+    "offset": 3328680,
+    "end": 3343212,
+    "size": 14532,
+    "sha256_16": "9f62f7e311d0fda9",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3328680_idx_149.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3328680_idx_149_hexdump.txt"
+  },
+  {
+    "index": 150,
+    "offset": 3343212,
+    "end": 3369548,
+    "size": 26336,
+    "sha256_16": "80a63b0c18e9001e",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3343212_idx_150.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3343212_idx_150_hexdump.txt"
+  },
+  {
+    "index": 151,
+    "offset": 3369548,
+    "end": 3414169,
+    "size": 44621,
+    "sha256_16": "0c431675cba6a03e",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3369548_idx_151.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3369548_idx_151_hexdump.txt"
+  },
+  {
+    "index": 152,
+    "offset": 3414169,
+    "end": 3418516,
+    "size": 4347,
+    "sha256_16": "526b16e5ead25462",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3414169_idx_152.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3414169_idx_152_hexdump.txt"
+  },
+  {
+    "index": 153,
+    "offset": 3418516,
+    "end": 3467477,
+    "size": 48961,
+    "sha256_16": "efd0ce3c3654f7ea",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3418516_idx_153.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3418516_idx_153_hexdump.txt"
+  },
+  {
+    "index": 154,
+    "offset": 3467477,
+    "end": 3512789,
+    "size": 45312,
+    "sha256_16": "9088bf551034b7b2",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3467477_idx_154.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3467477_idx_154_hexdump.txt"
+  },
+  {
+    "index": 155,
+    "offset": 3512789,
+    "end": 3537516,
+    "size": 24727,
+    "sha256_16": "89e0c6a4dcc11152",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3512789_idx_155.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3512789_idx_155_hexdump.txt"
+  },
+  {
+    "index": 156,
+    "offset": 3537516,
+    "end": 3552899,
+    "size": 15383,
+    "sha256_16": "01c332506e56e8a9",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3537516_idx_156.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3537516_idx_156_hexdump.txt"
+  },
+  {
+    "index": 157,
+    "offset": 3552899,
+    "end": 3566764,
+    "size": 13865,
+    "sha256_16": "16046245a90127d2",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3552899_idx_157.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3552899_idx_157_hexdump.txt"
+  },
+  {
+    "index": 158,
+    "offset": 3566764,
+    "end": 3586172,
+    "size": 19408,
+    "sha256_16": "a0609d83c14f3a61",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3566764_idx_158.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3566764_idx_158_hexdump.txt"
+  },
+  {
+    "index": 159,
+    "offset": 3586172,
+    "end": 3598633,
+    "size": 12461,
+    "sha256_16": "56599fe829fd68e1",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3586172_idx_159.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3586172_idx_159_hexdump.txt"
+  },
+  {
+    "index": 160,
+    "offset": 3598633,
+    "end": 3599979,
+    "size": 1346,
+    "sha256_16": "d80f2bd30fcff0c5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3598633_idx_160.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3598633_idx_160_hexdump.txt"
+  },
+  {
+    "index": 161,
+    "offset": 3599979,
+    "end": 3606692,
+    "size": 6713,
+    "sha256_16": "e5294696d734021c",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3599979_idx_161.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3599979_idx_161_hexdump.txt"
+  },
+  {
+    "index": 162,
+    "offset": 3606692,
+    "end": 3629734,
+    "size": 23042,
+    "sha256_16": "be1f73cbc5a661eb",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3606692_idx_162.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3606692_idx_162_hexdump.txt"
+  },
+  {
+    "index": 163,
+    "offset": 3629734,
+    "end": 3634700,
+    "size": 4966,
+    "sha256_16": "6d24b6cc731d38ed",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3629734_idx_163.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3629734_idx_163_hexdump.txt"
+  },
+  {
+    "index": 164,
+    "offset": 3634700,
+    "end": 3677136,
+    "size": 42436,
+    "sha256_16": "ec562debf26b4b85",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3634700_idx_164.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3634700_idx_164_hexdump.txt"
+  },
+  {
+    "index": 165,
+    "offset": 3677136,
+    "end": 3694614,
+    "size": 17478,
+    "sha256_16": "1b9031f364bddd70",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3677136_idx_165.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3677136_idx_165_hexdump.txt"
+  },
+  {
+    "index": 166,
+    "offset": 3694614,
+    "end": 3702108,
+    "size": 7494,
+    "sha256_16": "f3e94327d589b45d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3694614_idx_166.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3694614_idx_166_hexdump.txt"
+  },
+  {
+    "index": 167,
+    "offset": 3702108,
+    "end": 3747354,
+    "size": 45246,
+    "sha256_16": "243526202b2d05d5",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3702108_idx_167.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3702108_idx_167_hexdump.txt"
+  },
+  {
+    "index": 168,
+    "offset": 3747354,
+    "end": 3776545,
+    "size": 29191,
+    "sha256_16": "9f501f0e0dc2efa8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3747354_idx_168.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3747354_idx_168_hexdump.txt"
+  },
+  {
+    "index": 169,
+    "offset": 3776545,
+    "end": 3848639,
+    "size": 72094,
+    "sha256_16": "7914dee3a25e4a99",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3776545_idx_169.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3776545_idx_169_hexdump.txt"
+  },
+  {
+    "index": 170,
+    "offset": 3848639,
+    "end": 3854775,
+    "size": 6136,
+    "sha256_16": "fb8dc9bbd4092cb5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3848639_idx_170.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3848639_idx_170_hexdump.txt"
+  },
+  {
+    "index": 171,
+    "offset": 3854775,
+    "end": 3959132,
+    "size": 104357,
+    "sha256_16": "88927e798ca5f8ea",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3854775_idx_171.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3854775_idx_171_hexdump.txt"
+  },
+  {
+    "index": 172,
+    "offset": 3959132,
+    "end": 3961462,
+    "size": 2330,
+    "sha256_16": "0a44335f09f7b510",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3959132_idx_172.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3959132_idx_172_hexdump.txt"
+  },
+  {
+    "index": 173,
+    "offset": 3961462,
+    "end": 3969125,
+    "size": 7663,
+    "sha256_16": "a5a935e27e79ac59",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3961462_idx_173.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3961462_idx_173_hexdump.txt"
+  },
+  {
+    "index": 174,
+    "offset": 3969125,
+    "end": 3987368,
+    "size": 18243,
+    "sha256_16": "22b2373067981723",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3969125_idx_174.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3969125_idx_174_hexdump.txt"
+  },
+  {
+    "index": 175,
+    "offset": 3987368,
+    "end": 3994655,
+    "size": 7287,
+    "sha256_16": "f37f40d2e620cb08",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3987368_idx_175.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3987368_idx_175_hexdump.txt"
+  },
+  {
+    "index": 176,
+    "offset": 3994655,
+    "end": 4015730,
+    "size": 21075,
+    "sha256_16": "b40459f0bfab1c24",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3994655_idx_176.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_3994655_idx_176_hexdump.txt"
+  },
+  {
+    "index": 177,
+    "offset": 4015730,
+    "end": 4098869,
+    "size": 83139,
+    "sha256_16": "2159abe7d560377f",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4015730_idx_177.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4015730_idx_177_hexdump.txt"
+  },
+  {
+    "index": 178,
+    "offset": 4098869,
+    "end": 4100382,
+    "size": 1513,
+    "sha256_16": "bbc029c49cf4b265",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4098869_idx_178.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4098869_idx_178_hexdump.txt"
+  },
+  {
+    "index": 179,
+    "offset": 4100382,
+    "end": 4128042,
+    "size": 27660,
+    "sha256_16": "fb4a7654808747ed",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4100382_idx_179.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4100382_idx_179_hexdump.txt"
+  },
+  {
+    "index": 180,
+    "offset": 4128042,
+    "end": 4130470,
+    "size": 2428,
+    "sha256_16": "a81e2dbec9413d71",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4128042_idx_180.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4128042_idx_180_hexdump.txt"
+  },
+  {
+    "index": 181,
+    "offset": 4130470,
+    "end": 4146661,
+    "size": 16191,
+    "sha256_16": "26580f449e7dc9aa",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4130470_idx_181.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4130470_idx_181_hexdump.txt"
+  },
+  {
+    "index": 182,
+    "offset": 4146661,
+    "end": 4164014,
+    "size": 17353,
+    "sha256_16": "325e908ed0a6cd2b",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4146661_idx_182.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4146661_idx_182_hexdump.txt"
+  },
+  {
+    "index": 183,
+    "offset": 4164014,
+    "end": 4174281,
+    "size": 10267,
+    "sha256_16": "7dcbb748e917e74f",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4164014_idx_183.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4164014_idx_183_hexdump.txt"
+  },
+  {
+    "index": 184,
+    "offset": 4174281,
+    "end": 4209811,
+    "size": 35530,
+    "sha256_16": "3140132238da001e",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4174281_idx_184.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4174281_idx_184_hexdump.txt"
+  },
+  {
+    "index": 185,
+    "offset": 4209811,
+    "end": 4219571,
+    "size": 9760,
+    "sha256_16": "3ee439fe4683e8dc",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4209811_idx_185.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4209811_idx_185_hexdump.txt"
+  },
+  {
+    "index": 186,
+    "offset": 4219571,
+    "end": 4259315,
+    "size": 39744,
+    "sha256_16": "eb6ac281da4146a2",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4219571_idx_186.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4219571_idx_186_hexdump.txt"
+  },
+  {
+    "index": 187,
+    "offset": 4259315,
+    "end": 4260406,
+    "size": 1091,
+    "sha256_16": "43894e69c47b74e0",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4259315_idx_187.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4259315_idx_187_hexdump.txt"
+  },
+  {
+    "index": 188,
+    "offset": 4260406,
+    "end": 4383771,
+    "size": 123365,
+    "sha256_16": "fd159f8448a4ffda",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4260406_idx_188.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4260406_idx_188_hexdump.txt"
+  },
+  {
+    "index": 189,
+    "offset": 4383771,
+    "end": 4409607,
+    "size": 25836,
+    "sha256_16": "5dc4524dc47ef135",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4383771_idx_189.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4383771_idx_189_hexdump.txt"
+  },
+  {
+    "index": 190,
+    "offset": 4409607,
+    "end": 4446211,
+    "size": 36604,
+    "sha256_16": "353193ad9d5e9c50",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4409607_idx_190.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4409607_idx_190_hexdump.txt"
+  },
+  {
+    "index": 191,
+    "offset": 4446211,
+    "end": 4449903,
+    "size": 3692,
+    "sha256_16": "73cc5048d4966834",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4446211_idx_191.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4446211_idx_191_hexdump.txt"
+  },
+  {
+    "index": 192,
+    "offset": 4449903,
+    "end": 4458739,
+    "size": 8836,
+    "sha256_16": "f826acaab4f84f29",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4449903_idx_192.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4449903_idx_192_hexdump.txt"
+  },
+  {
+    "index": 193,
+    "offset": 4458739,
+    "end": 4471072,
+    "size": 12333,
+    "sha256_16": "fd975201fae2a430",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4458739_idx_193.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4458739_idx_193_hexdump.txt"
+  },
+  {
+    "index": 194,
+    "offset": 4471072,
+    "end": 4485275,
+    "size": 14203,
+    "sha256_16": "2399b7cdf00e32f6",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4471072_idx_194.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4471072_idx_194_hexdump.txt"
+  },
+  {
+    "index": 195,
+    "offset": 4485275,
+    "end": 4540095,
+    "size": 54820,
+    "sha256_16": "6d03c5aed2c11678",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4485275_idx_195.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4485275_idx_195_hexdump.txt"
+  },
+  {
+    "index": 196,
+    "offset": 4540095,
+    "end": 4545004,
+    "size": 4909,
+    "sha256_16": "0d4a11e1c054743e",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4540095_idx_196.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4540095_idx_196_hexdump.txt"
+  },
+  {
+    "index": 197,
+    "offset": 4545004,
+    "end": 4580935,
+    "size": 35931,
+    "sha256_16": "05b099d8bc3a53a3",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4545004_idx_197.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4545004_idx_197_hexdump.txt"
+  },
+  {
+    "index": 198,
+    "offset": 4580935,
+    "end": 4606618,
+    "size": 25683,
+    "sha256_16": "2c3c8da7d30edc3e",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4580935_idx_198.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4580935_idx_198_hexdump.txt"
+  },
+  {
+    "index": 199,
+    "offset": 4606618,
+    "end": 4616000,
+    "size": 9382,
+    "sha256_16": "2ebe46a070fb833d",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4606618_idx_199.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4606618_idx_199_hexdump.txt"
+  },
+  {
+    "index": 200,
+    "offset": 4616000,
+    "end": 4659643,
+    "size": 43643,
+    "sha256_16": "71c19af62bfb43d0",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4616000_idx_200.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4616000_idx_200_hexdump.txt"
+  },
+  {
+    "index": 201,
+    "offset": 4659643,
+    "end": 4688573,
+    "size": 28930,
+    "sha256_16": "e411543f269385c8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4659643_idx_201.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4659643_idx_201_hexdump.txt"
+  },
+  {
+    "index": 202,
+    "offset": 4688573,
+    "end": 4705047,
+    "size": 16474,
+    "sha256_16": "1f3d6a5c41603f12",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4688573_idx_202.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4688573_idx_202_hexdump.txt"
+  },
+  {
+    "index": 203,
+    "offset": 4705047,
+    "end": 4730507,
+    "size": 25460,
+    "sha256_16": "6b8612d0dcadaa7a",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4705047_idx_203.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4705047_idx_203_hexdump.txt"
+  },
+  {
+    "index": 204,
+    "offset": 4730507,
+    "end": 4735076,
+    "size": 4569,
+    "sha256_16": "fc4425321e2ff8f2",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4730507_idx_204.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4730507_idx_204_hexdump.txt"
+  },
+  {
+    "index": 205,
+    "offset": 4735076,
+    "end": 4741232,
+    "size": 6156,
+    "sha256_16": "9873fc01bd83ed1e",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4735076_idx_205.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4735076_idx_205_hexdump.txt"
+  },
+  {
+    "index": 206,
+    "offset": 4741232,
+    "end": 4753490,
+    "size": 12258,
+    "sha256_16": "ffbdb235bf11ffdd",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4741232_idx_206.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4741232_idx_206_hexdump.txt"
+  },
+  {
+    "index": 207,
+    "offset": 4753490,
+    "end": 4770850,
+    "size": 17360,
+    "sha256_16": "a60b1a3d8d50e486",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4753490_idx_207.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4753490_idx_207_hexdump.txt"
+  },
+  {
+    "index": 208,
+    "offset": 4770850,
+    "end": 4779800,
+    "size": 8950,
+    "sha256_16": "0d7b5cff042ed76b",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4770850_idx_208.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4770850_idx_208_hexdump.txt"
+  },
+  {
+    "index": 209,
+    "offset": 4779800,
+    "end": 4819711,
+    "size": 39911,
+    "sha256_16": "ca9c84215dda2ad9",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4779800_idx_209.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4779800_idx_209_hexdump.txt"
+  },
+  {
+    "index": 210,
+    "offset": 4819711,
+    "end": 4820240,
+    "size": 529,
+    "sha256_16": "a6fcd9d7a7b68e2a",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4819711_idx_210.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4819711_idx_210_hexdump.txt"
+  },
+  {
+    "index": 211,
+    "offset": 4820240,
+    "end": 4825140,
+    "size": 4900,
+    "sha256_16": "d0209873ea8fd29b",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4820240_idx_211.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4820240_idx_211_hexdump.txt"
+  },
+  {
+    "index": 212,
+    "offset": 4825140,
+    "end": 4831068,
+    "size": 5928,
+    "sha256_16": "f25084af3372f4bf",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4825140_idx_212.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4825140_idx_212_hexdump.txt"
+  },
+  {
+    "index": 213,
+    "offset": 4831068,
+    "end": 4840577,
+    "size": 9509,
+    "sha256_16": "4f2d448951808d96",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4831068_idx_213.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4831068_idx_213_hexdump.txt"
+  },
+  {
+    "index": 214,
+    "offset": 4840577,
+    "end": 4855486,
+    "size": 14909,
+    "sha256_16": "6e5eac8340835b8f",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4840577_idx_214.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4840577_idx_214_hexdump.txt"
+  },
+  {
+    "index": 215,
+    "offset": 4855486,
+    "end": 4887712,
+    "size": 32226,
+    "sha256_16": "530497035eee442f",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4855486_idx_215.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4855486_idx_215_hexdump.txt"
+  },
+  {
+    "index": 216,
+    "offset": 4887712,
+    "end": 4931927,
+    "size": 44215,
+    "sha256_16": "03496d34e97b3ab9",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4887712_idx_216.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4887712_idx_216_hexdump.txt"
+  },
+  {
+    "index": 217,
+    "offset": 4931927,
+    "end": 4972159,
+    "size": 40232,
+    "sha256_16": "23415ea3be4c8826",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4931927_idx_217.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4931927_idx_217_hexdump.txt"
+  },
+  {
+    "index": 218,
+    "offset": 4972159,
+    "end": 5025613,
+    "size": 53454,
+    "sha256_16": "dc26b10ae0bbcbd3",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4972159_idx_218.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_4972159_idx_218_hexdump.txt"
+  },
+  {
+    "index": 219,
+    "offset": 5025613,
+    "end": 5037472,
+    "size": 11859,
+    "sha256_16": "358522809cbba398",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5025613_idx_219.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5025613_idx_219_hexdump.txt"
+  },
+  {
+    "index": 220,
+    "offset": 5037472,
+    "end": 5042804,
+    "size": 5332,
+    "sha256_16": "20a0ab691bf86145",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5037472_idx_220.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5037472_idx_220_hexdump.txt"
+  },
+  {
+    "index": 221,
+    "offset": 5042804,
+    "end": 5054898,
+    "size": 12094,
+    "sha256_16": "7cbcadfe584adfa4",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5042804_idx_221.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5042804_idx_221_hexdump.txt"
+  },
+  {
+    "index": 222,
+    "offset": 5054898,
+    "end": 5060243,
+    "size": 5345,
+    "sha256_16": "f00875e028bcb05d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5054898_idx_222.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5054898_idx_222_hexdump.txt"
+  },
+  {
+    "index": 223,
+    "offset": 5060243,
+    "end": 5149570,
+    "size": 89327,
+    "sha256_16": "a3d4b272a9b7a84f",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5060243_idx_223.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5060243_idx_223_hexdump.txt"
+  },
+  {
+    "index": 224,
+    "offset": 5149570,
+    "end": 5162719,
+    "size": 13149,
+    "sha256_16": "46cd67175dbbbd47",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5149570_idx_224.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5149570_idx_224_hexdump.txt"
+  },
+  {
+    "index": 225,
+    "offset": 5162719,
+    "end": 5169941,
+    "size": 7222,
+    "sha256_16": "b66260e3cf491204",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5162719_idx_225.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5162719_idx_225_hexdump.txt"
+  },
+  {
+    "index": 226,
+    "offset": 5169941,
+    "end": 5180884,
+    "size": 10943,
+    "sha256_16": "c99980208382a454",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5169941_idx_226.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5169941_idx_226_hexdump.txt"
+  },
+  {
+    "index": 227,
+    "offset": 5180884,
+    "end": 5201377,
+    "size": 20493,
+    "sha256_16": "c0d0c08881cbfce5",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5180884_idx_227.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5180884_idx_227_hexdump.txt"
+  },
+  {
+    "index": 228,
+    "offset": 5201377,
+    "end": 5205183,
+    "size": 3806,
+    "sha256_16": "0e2734d0cd801dd3",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5201377_idx_228.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5201377_idx_228_hexdump.txt"
+  },
+  {
+    "index": 229,
+    "offset": 5205183,
+    "end": 5233248,
+    "size": 28065,
+    "sha256_16": "3f4f0bf45c961f3e",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5205183_idx_229.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5205183_idx_229_hexdump.txt"
+  },
+  {
+    "index": 230,
+    "offset": 5233248,
+    "end": 5233310,
+    "size": 62,
+    "sha256_16": "8998f4f1c7219387",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5233248_idx_230.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5233248_idx_230_hexdump.txt"
+  },
+  {
+    "index": 231,
+    "offset": 5233310,
+    "end": 5270251,
+    "size": 36941,
+    "sha256_16": "5d4b28ef268cb832",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5233310_idx_231.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5233310_idx_231_hexdump.txt"
+  },
+  {
+    "index": 232,
+    "offset": 5270251,
+    "end": 5274619,
+    "size": 4368,
+    "sha256_16": "8ba9ca5aaa554021",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5270251_idx_232.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5270251_idx_232_hexdump.txt"
+  },
+  {
+    "index": 233,
+    "offset": 5274619,
+    "end": 5314085,
+    "size": 39466,
+    "sha256_16": "4861fc6b118cd840",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5274619_idx_233.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5274619_idx_233_hexdump.txt"
+  },
+  {
+    "index": 234,
+    "offset": 5314085,
+    "end": 5324701,
+    "size": 10616,
+    "sha256_16": "5c38d495776953a8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5314085_idx_234.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5314085_idx_234_hexdump.txt"
+  },
+  {
+    "index": 235,
+    "offset": 5324701,
+    "end": 5333898,
+    "size": 9197,
+    "sha256_16": "0cf854f789119eb0",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5324701_idx_235.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5324701_idx_235_hexdump.txt"
+  },
+  {
+    "index": 236,
+    "offset": 5333898,
+    "end": 5352422,
+    "size": 18524,
+    "sha256_16": "47f6301c9fde64f8",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5333898_idx_236.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5333898_idx_236_hexdump.txt"
+  },
+  {
+    "index": 237,
+    "offset": 5352422,
+    "end": 5357533,
+    "size": 5111,
+    "sha256_16": "8e56d337e0e88bde",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5352422_idx_237.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5352422_idx_237_hexdump.txt"
+  },
+  {
+    "index": 238,
+    "offset": 5357533,
+    "end": 5393608,
+    "size": 36075,
+    "sha256_16": "c4203150465e31e1",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5357533_idx_238.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5357533_idx_238_hexdump.txt"
+  },
+  {
+    "index": 239,
+    "offset": 5393608,
+    "end": 5429349,
+    "size": 35741,
+    "sha256_16": "f0809a0bf427e2b4",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5393608_idx_239.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5393608_idx_239_hexdump.txt"
+  },
+  {
+    "index": 240,
+    "offset": 5429349,
+    "end": 5447966,
+    "size": 18617,
+    "sha256_16": "8b318905f58adf09",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5429349_idx_240.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5429349_idx_240_hexdump.txt"
+  },
+  {
+    "index": 241,
+    "offset": 5447966,
+    "end": 5484478,
+    "size": 36512,
+    "sha256_16": "65e35dd711d04c9d",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5447966_idx_241.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5447966_idx_241_hexdump.txt"
+  },
+  {
+    "index": 242,
+    "offset": 5484478,
+    "end": 5493555,
+    "size": 9077,
+    "sha256_16": "51462448d03b7b53",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5484478_idx_242.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5484478_idx_242_hexdump.txt"
+  },
+  {
+    "index": 243,
+    "offset": 5493555,
+    "end": 5513300,
+    "size": 19745,
+    "sha256_16": "0bf9c1683bc6d3f5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5493555_idx_243.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5493555_idx_243_hexdump.txt"
+  },
+  {
+    "index": 244,
+    "offset": 5513300,
+    "end": 5585786,
+    "size": 72486,
+    "sha256_16": "f51d7ddd36e282a3",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5513300_idx_244.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5513300_idx_244_hexdump.txt"
+  },
+  {
+    "index": 245,
+    "offset": 5585786,
+    "end": 5602410,
+    "size": 16624,
+    "sha256_16": "9c2db3f6febfb8bb",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5585786_idx_245.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5585786_idx_245_hexdump.txt"
+  },
+  {
+    "index": 246,
+    "offset": 5602410,
+    "end": 5652158,
+    "size": 49748,
+    "sha256_16": "026c4e8f8448f0b2",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5602410_idx_246.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5602410_idx_246_hexdump.txt"
+  },
+  {
+    "index": 247,
+    "offset": 5652158,
+    "end": 5696111,
+    "size": 43953,
+    "sha256_16": "9608fb402a0e452e",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5652158_idx_247.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5652158_idx_247_hexdump.txt"
+  },
+  {
+    "index": 248,
+    "offset": 5696111,
+    "end": 5713017,
+    "size": 16906,
+    "sha256_16": "d6d8d5f2e1ed9e16",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5696111_idx_248.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5696111_idx_248_hexdump.txt"
+  },
+  {
+    "index": 249,
+    "offset": 5713017,
+    "end": 5719501,
+    "size": 6484,
+    "sha256_16": "f141195859838ae2",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5713017_idx_249.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5713017_idx_249_hexdump.txt"
+  },
+  {
+    "index": 250,
+    "offset": 5719501,
+    "end": 5720380,
+    "size": 879,
+    "sha256_16": "c94f513ad8adcef3",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5719501_idx_250.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5719501_idx_250_hexdump.txt"
+  },
+  {
+    "index": 251,
+    "offset": 5720380,
+    "end": 5742143,
+    "size": 21763,
+    "sha256_16": "2122f49d76f274f5",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5720380_idx_251.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5720380_idx_251_hexdump.txt"
+  },
+  {
+    "index": 252,
+    "offset": 5742143,
+    "end": 5757764,
+    "size": 15621,
+    "sha256_16": "2f064ada61eed15b",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5742143_idx_252.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5742143_idx_252_hexdump.txt"
+  },
+  {
+    "index": 253,
+    "offset": 5757764,
+    "end": 5774000,
+    "size": 16236,
+    "sha256_16": "2cfb561c4cf2eb7d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5757764_idx_253.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5757764_idx_253_hexdump.txt"
+  },
+  {
+    "index": 254,
+    "offset": 5774000,
+    "end": 5781167,
+    "size": 7167,
+    "sha256_16": "2ed12fa8ddf70cce",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5774000_idx_254.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5774000_idx_254_hexdump.txt"
+  },
+  {
+    "index": 255,
+    "offset": 5781167,
+    "end": 5785180,
+    "size": 4013,
+    "sha256_16": "f3a08d33af65fb81",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5781167_idx_255.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5781167_idx_255_hexdump.txt"
+  },
+  {
+    "index": 256,
+    "offset": 5785180,
+    "end": 5808415,
+    "size": 23235,
+    "sha256_16": "75d733c8e0899abd",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5785180_idx_256.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5785180_idx_256_hexdump.txt"
+  },
+  {
+    "index": 257,
+    "offset": 5808415,
+    "end": 5810721,
+    "size": 2306,
+    "sha256_16": "327bf295d9f424d3",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5808415_idx_257.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5808415_idx_257_hexdump.txt"
+  },
+  {
+    "index": 258,
+    "offset": 5810721,
+    "end": 5818274,
+    "size": 7553,
+    "sha256_16": "407bf8e0a0af16c4",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5810721_idx_258.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5810721_idx_258_hexdump.txt"
+  },
+  {
+    "index": 259,
+    "offset": 5818274,
+    "end": 5835002,
+    "size": 16728,
+    "sha256_16": "0637626506747d9f",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5818274_idx_259.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5818274_idx_259_hexdump.txt"
+  },
+  {
+    "index": 260,
+    "offset": 5835002,
+    "end": 5903778,
+    "size": 68776,
+    "sha256_16": "b27bc21e0e1e402d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5835002_idx_260.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5835002_idx_260_hexdump.txt"
+  },
+  {
+    "index": 261,
+    "offset": 5903778,
+    "end": 5907603,
+    "size": 3825,
+    "sha256_16": "66a3cb2a59c3aa3e",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5903778_idx_261.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5903778_idx_261_hexdump.txt"
+  },
+  {
+    "index": 262,
+    "offset": 5907603,
+    "end": 5915507,
+    "size": 7904,
+    "sha256_16": "3332377286e9cf3b",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5907603_idx_262.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5907603_idx_262_hexdump.txt"
+  },
+  {
+    "index": 263,
+    "offset": 5915507,
+    "end": 5917793,
+    "size": 2286,
+    "sha256_16": "b1de06a917c0de96",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5915507_idx_263.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5915507_idx_263_hexdump.txt"
+  },
+  {
+    "index": 264,
+    "offset": 5917793,
+    "end": 5952989,
+    "size": 35196,
+    "sha256_16": "2df2c03e263228aa",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5917793_idx_264.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5917793_idx_264_hexdump.txt"
+  },
+  {
+    "index": 265,
+    "offset": 5952989,
+    "end": 5966576,
+    "size": 13587,
+    "sha256_16": "8f7224b3fd2a586d",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5952989_idx_265.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5952989_idx_265_hexdump.txt"
+  },
+  {
+    "index": 266,
+    "offset": 5966576,
+    "end": 6014308,
+    "size": 47732,
+    "sha256_16": "7a7e69c5b851163c",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5966576_idx_266.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_5966576_idx_266_hexdump.txt"
+  },
+  {
+    "index": 267,
+    "offset": 6014308,
+    "end": 6022531,
+    "size": 8223,
+    "sha256_16": "6afca75d8049cc42",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6014308_idx_267.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6014308_idx_267_hexdump.txt"
+  },
+  {
+    "index": 268,
+    "offset": 6022531,
+    "end": 6041693,
+    "size": 19162,
+    "sha256_16": "f8c86bdd7049287d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6022531_idx_268.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6022531_idx_268_hexdump.txt"
+  },
+  {
+    "index": 269,
+    "offset": 6041693,
+    "end": 6044580,
+    "size": 2887,
+    "sha256_16": "ba196c49d8618407",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6041693_idx_269.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6041693_idx_269_hexdump.txt"
+  },
+  {
+    "index": 270,
+    "offset": 6044580,
+    "end": 6046395,
+    "size": 1815,
+    "sha256_16": "7d25cfd8ebae0f4d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6044580_idx_270.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6044580_idx_270_hexdump.txt"
+  },
+  {
+    "index": 271,
+    "offset": 6046395,
+    "end": 6092733,
+    "size": 46338,
+    "sha256_16": "1604456745ecfdff",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6046395_idx_271.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6046395_idx_271_hexdump.txt"
+  },
+  {
+    "index": 272,
+    "offset": 6092733,
+    "end": 6097007,
+    "size": 4274,
+    "sha256_16": "aa349e1c0a72e9d0",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6092733_idx_272.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6092733_idx_272_hexdump.txt"
+  },
+  {
+    "index": 273,
+    "offset": 6097007,
+    "end": 6101662,
+    "size": 4655,
+    "sha256_16": "5d0499ef2040ba36",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6097007_idx_273.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6097007_idx_273_hexdump.txt"
+  },
+  {
+    "index": 274,
+    "offset": 6101662,
+    "end": 6103710,
+    "size": 2048,
+    "sha256_16": "acc22b8dc642ff69",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6101662_idx_274.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6101662_idx_274_hexdump.txt"
+  },
+  {
+    "index": 275,
+    "offset": 6103710,
+    "end": 6108851,
+    "size": 5141,
+    "sha256_16": "2b17e029c9dd5c11",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6103710_idx_275.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6103710_idx_275_hexdump.txt"
+  },
+  {
+    "index": 276,
+    "offset": 6108851,
+    "end": 6146181,
+    "size": 37330,
+    "sha256_16": "f35c5dc47f91ee9c",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6108851_idx_276.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6108851_idx_276_hexdump.txt"
+  },
+  {
+    "index": 277,
+    "offset": 6146181,
+    "end": 6169906,
+    "size": 23725,
+    "sha256_16": "2ec51d992fb6cb5b",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6146181_idx_277.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6146181_idx_277_hexdump.txt"
+  },
+  {
+    "index": 278,
+    "offset": 6169906,
+    "end": 6175741,
+    "size": 5835,
+    "sha256_16": "4f36c832d4d11bc3",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6169906_idx_278.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6169906_idx_278_hexdump.txt"
+  },
+  {
+    "index": 279,
+    "offset": 6175741,
+    "end": 6230482,
+    "size": 54741,
+    "sha256_16": "cbb3e569df1c4f8b",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6175741_idx_279.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6175741_idx_279_hexdump.txt"
+  },
+  {
+    "index": 280,
+    "offset": 6230482,
+    "end": 6282996,
+    "size": 52514,
+    "sha256_16": "456783569d9b024f",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6230482_idx_280.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6230482_idx_280_hexdump.txt"
+  },
+  {
+    "index": 281,
+    "offset": 6282996,
+    "end": 6292535,
+    "size": 9539,
+    "sha256_16": "53c20bc52bc502a3",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6282996_idx_281.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6282996_idx_281_hexdump.txt"
+  },
+  {
+    "index": 282,
+    "offset": 6292535,
+    "end": 6317398,
+    "size": 24863,
+    "sha256_16": "f53a0e5ef6ecf41c",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6292535_idx_282.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6292535_idx_282_hexdump.txt"
+  },
+  {
+    "index": 283,
+    "offset": 6317398,
+    "end": 6332224,
+    "size": 14826,
+    "sha256_16": "4b435178a14acbbb",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6317398_idx_283.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6317398_idx_283_hexdump.txt"
+  },
+  {
+    "index": 284,
+    "offset": 6332224,
+    "end": 6364561,
+    "size": 32337,
+    "sha256_16": "6a8d2f2acb594e0d",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6332224_idx_284.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6332224_idx_284_hexdump.txt"
+  },
+  {
+    "index": 285,
+    "offset": 6364561,
+    "end": 6368691,
+    "size": 4130,
+    "sha256_16": "76d4da160a693757",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6364561_idx_285.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6364561_idx_285_hexdump.txt"
+  },
+  {
+    "index": 286,
+    "offset": 6368691,
+    "end": 6373617,
+    "size": 4926,
+    "sha256_16": "b1744ef63bc61ebd",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6368691_idx_286.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6368691_idx_286_hexdump.txt"
+  },
+  {
+    "index": 287,
+    "offset": 6373617,
+    "end": 6394113,
+    "size": 20496,
+    "sha256_16": "42845e8f6e89d51e",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6373617_idx_287.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6373617_idx_287_hexdump.txt"
+  },
+  {
+    "index": 288,
+    "offset": 6394113,
+    "end": 6396973,
+    "size": 2860,
+    "sha256_16": "41ea1f07a37a10b2",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6394113_idx_288.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6394113_idx_288_hexdump.txt"
+  },
+  {
+    "index": 289,
+    "offset": 6396973,
+    "end": 6398701,
+    "size": 1728,
+    "sha256_16": "d64f78081f1f130f",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6396973_idx_289.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6396973_idx_289_hexdump.txt"
+  },
+  {
+    "index": 290,
+    "offset": 6398701,
+    "end": 6421753,
+    "size": 23052,
+    "sha256_16": "32acbf133b1c84dd",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6398701_idx_290.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6398701_idx_290_hexdump.txt"
+  },
+  {
+    "index": 291,
+    "offset": 6421753,
+    "end": 6423060,
+    "size": 1307,
+    "sha256_16": "3b8aa91b62010713",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6421753_idx_291.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6421753_idx_291_hexdump.txt"
+  },
+  {
+    "index": 292,
+    "offset": 6423060,
+    "end": 6438281,
+    "size": 15221,
+    "sha256_16": "a59f5d8c582e2888",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6423060_idx_292.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6423060_idx_292_hexdump.txt"
+  },
+  {
+    "index": 293,
+    "offset": 6438281,
+    "end": 6443182,
+    "size": 4901,
+    "sha256_16": "a8b4e154084c09b2",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6438281_idx_293.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6438281_idx_293_hexdump.txt"
+  },
+  {
+    "index": 294,
+    "offset": 6443182,
+    "end": 6444297,
+    "size": 1115,
+    "sha256_16": "1c7dd80dd6e93fa6",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6443182_idx_294.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6443182_idx_294_hexdump.txt"
+  },
+  {
+    "index": 295,
+    "offset": 6444297,
+    "end": 6463921,
+    "size": 19624,
+    "sha256_16": "cf6942dfb3324bd8",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6444297_idx_295.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6444297_idx_295_hexdump.txt"
+  },
+  {
+    "index": 296,
+    "offset": 6463921,
+    "end": 6491236,
+    "size": 27315,
+    "sha256_16": "2fa7f68174a7d599",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6463921_idx_296.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6463921_idx_296_hexdump.txt"
+  },
+  {
+    "index": 297,
+    "offset": 6491236,
+    "end": 6510640,
+    "size": 19404,
+    "sha256_16": "01d7f6ba0dbcf4da",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6491236_idx_297.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6491236_idx_297_hexdump.txt"
+  },
+  {
+    "index": 298,
+    "offset": 6510640,
+    "end": 6545095,
+    "size": 34455,
+    "sha256_16": "ca4a3574bc08adf3",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6510640_idx_298.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6510640_idx_298_hexdump.txt"
+  },
+  {
+    "index": 299,
+    "offset": 6545095,
+    "end": 6550003,
+    "size": 4908,
+    "sha256_16": "5e05e03ef5405bdb",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6545095_idx_299.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6545095_idx_299_hexdump.txt"
+  },
+  {
+    "index": 300,
+    "offset": 6550003,
+    "end": 6561773,
+    "size": 11770,
+    "sha256_16": "4b026e8f04d4a706",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6550003_idx_300.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6550003_idx_300_hexdump.txt"
+  },
+  {
+    "index": 301,
+    "offset": 6561773,
+    "end": 6574685,
+    "size": 12912,
+    "sha256_16": "e1caffb8ff059625",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6561773_idx_301.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6561773_idx_301_hexdump.txt"
+  },
+  {
+    "index": 302,
+    "offset": 6574685,
+    "end": 6594994,
+    "size": 20309,
+    "sha256_16": "6b0f06d254a26ac1",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6574685_idx_302.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6574685_idx_302_hexdump.txt"
+  },
+  {
+    "index": 303,
+    "offset": 6594994,
+    "end": 6644188,
+    "size": 49194,
+    "sha256_16": "5870c4ac530a06be",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6594994_idx_303.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6594994_idx_303_hexdump.txt"
+  },
+  {
+    "index": 304,
+    "offset": 6644188,
+    "end": 6649607,
+    "size": 5419,
+    "sha256_16": "271f7cc78aa20546",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6644188_idx_304.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6644188_idx_304_hexdump.txt"
+  },
+  {
+    "index": 305,
+    "offset": 6649607,
+    "end": 6709599,
+    "size": 59992,
+    "sha256_16": "64446b4da4810274",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6649607_idx_305.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6649607_idx_305_hexdump.txt"
+  },
+  {
+    "index": 306,
+    "offset": 6709599,
+    "end": 6745509,
+    "size": 35910,
+    "sha256_16": "97e358f47bd0f6cc",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6709599_idx_306.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6709599_idx_306_hexdump.txt"
+  },
+  {
+    "index": 307,
+    "offset": 6745509,
+    "end": 6767056,
+    "size": 21547,
+    "sha256_16": "d9313ac4b18d241f",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6745509_idx_307.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6745509_idx_307_hexdump.txt"
+  },
+  {
+    "index": 308,
+    "offset": 6767056,
+    "end": 6785824,
+    "size": 18768,
+    "sha256_16": "879c4c18230bdeaa",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6767056_idx_308.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6767056_idx_308_hexdump.txt"
+  },
+  {
+    "index": 309,
+    "offset": 6785824,
+    "end": 6792475,
+    "size": 6651,
+    "sha256_16": "d58ccec275b5b682",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6785824_idx_309.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6785824_idx_309_hexdump.txt"
+  },
+  {
+    "index": 310,
+    "offset": 6792475,
+    "end": 6817786,
+    "size": 25311,
+    "sha256_16": "4a352628be70c6cf",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6792475_idx_310.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6792475_idx_310_hexdump.txt"
+  },
+  {
+    "index": 311,
+    "offset": 6817786,
+    "end": 6869214,
+    "size": 51428,
+    "sha256_16": "0ae6e2f1757ce660",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6817786_idx_311.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6817786_idx_311_hexdump.txt"
+  },
+  {
+    "index": 312,
+    "offset": 6869214,
+    "end": 6910251,
+    "size": 41037,
+    "sha256_16": "e12fe95453a07c53",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6869214_idx_312.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6869214_idx_312_hexdump.txt"
+  },
+  {
+    "index": 313,
+    "offset": 6910251,
+    "end": 6912486,
+    "size": 2235,
+    "sha256_16": "9125352e78e05458",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6910251_idx_313.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6910251_idx_313_hexdump.txt"
+  },
+  {
+    "index": 314,
+    "offset": 6912486,
+    "end": 6941520,
+    "size": 29034,
+    "sha256_16": "5e25a2a470412455",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6912486_idx_314.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6912486_idx_314_hexdump.txt"
+  },
+  {
+    "index": 315,
+    "offset": 6941520,
+    "end": 6975006,
+    "size": 33486,
+    "sha256_16": "722cca6e44a83bcd",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6941520_idx_315.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6941520_idx_315_hexdump.txt"
+  },
+  {
+    "index": 316,
+    "offset": 6975006,
+    "end": 7011282,
+    "size": 36276,
+    "sha256_16": "8a062ffa0e2eb95b",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6975006_idx_316.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_6975006_idx_316_hexdump.txt"
+  },
+  {
+    "index": 317,
+    "offset": 7011282,
+    "end": 7015462,
+    "size": 4180,
+    "sha256_16": "0599a3cc04a82b62",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7011282_idx_317.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7011282_idx_317_hexdump.txt"
+  },
+  {
+    "index": 318,
+    "offset": 7015462,
+    "end": 7038077,
+    "size": 22615,
+    "sha256_16": "1a2a32cc08765f32",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7015462_idx_318.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7015462_idx_318_hexdump.txt"
+  },
+  {
+    "index": 319,
+    "offset": 7038077,
+    "end": 7065559,
+    "size": 27482,
+    "sha256_16": "7874f297f994b542",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7038077_idx_319.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7038077_idx_319_hexdump.txt"
+  },
+  {
+    "index": 320,
+    "offset": 7065559,
+    "end": 7070611,
+    "size": 5052,
+    "sha256_16": "4fcdd34c7032ee94",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7065559_idx_320.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7065559_idx_320_hexdump.txt"
+  },
+  {
+    "index": 321,
+    "offset": 7070611,
+    "end": 7113339,
+    "size": 42728,
+    "sha256_16": "6f9767bb36ff7d00",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7070611_idx_321.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7070611_idx_321_hexdump.txt"
+  },
+  {
+    "index": 322,
+    "offset": 7113339,
+    "end": 7144815,
+    "size": 31476,
+    "sha256_16": "352b60dcb36885e8",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7113339_idx_322.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7113339_idx_322_hexdump.txt"
+  },
+  {
+    "index": 323,
+    "offset": 7144815,
+    "end": 7195845,
+    "size": 51030,
+    "sha256_16": "72dae5ee9976218b",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7144815_idx_323.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7144815_idx_323_hexdump.txt"
+  },
+  {
+    "index": 324,
+    "offset": 7195845,
+    "end": 7215872,
+    "size": 20027,
+    "sha256_16": "0c5985629e603a3c",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7195845_idx_324.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7195845_idx_324_hexdump.txt"
+  },
+  {
+    "index": 325,
+    "offset": 7215872,
+    "end": 7216162,
+    "size": 290,
+    "sha256_16": "95e0933dd3076f09",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7215872_idx_325.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7215872_idx_325_hexdump.txt"
+  },
+  {
+    "index": 326,
+    "offset": 7216162,
+    "end": 7242008,
+    "size": 25846,
+    "sha256_16": "8b413623842e241d",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7216162_idx_326.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7216162_idx_326_hexdump.txt"
+  },
+  {
+    "index": 327,
+    "offset": 7242008,
+    "end": 7291726,
+    "size": 49718,
+    "sha256_16": "09c32747bd3c3d76",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7242008_idx_327.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7242008_idx_327_hexdump.txt"
+  },
+  {
+    "index": 328,
+    "offset": 7291726,
+    "end": 7294263,
+    "size": 2537,
+    "sha256_16": "0cea6d19d4d74690",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7291726_idx_328.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7291726_idx_328_hexdump.txt"
+  },
+  {
+    "index": 329,
+    "offset": 7294263,
+    "end": 7299410,
+    "size": 5147,
+    "sha256_16": "bd6b01651dddfb92",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7294263_idx_329.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7294263_idx_329_hexdump.txt"
+  },
+  {
+    "index": 330,
+    "offset": 7299410,
+    "end": 7300822,
+    "size": 1412,
+    "sha256_16": "7054a748a843f37c",
+    "header_bytes_hex": "7801",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7299410_idx_330.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7299410_idx_330_hexdump.txt"
+  },
+  {
+    "index": 331,
+    "offset": 7300822,
+    "end": 7330046,
+    "size": 29224,
+    "sha256_16": "2d9caff6dc39d787",
+    "header_bytes_hex": "789c",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7300822_idx_331.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7300822_idx_331_hexdump.txt"
+  },
+  {
+    "index": 332,
+    "offset": 7330046,
+    "end": 7359431,
+    "size": 29385,
+    "sha256_16": "b520eee8ae1f1baa",
+    "header_bytes_hex": "78da",
+    "file": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7330046_idx_332.bin",
+    "hexdump": "C:\\Users\\bensc\\Desktop\\IT\\Projekte\\quad_cortex_preset_project\\01_ngp_analysis\\members_zlib_raw\\zlib_raw_off_7330046_idx_332_hexdump.txt"
+  }
+]

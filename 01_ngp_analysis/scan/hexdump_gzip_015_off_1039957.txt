@@ -1,0 +1,8 @@
+000fde55  1f 8b ab 02 84 4e 2a 89 50 46 05 44 28 87 8e 9e   .....N*.PF.D(...
+000fde65  2b 9d 55 57 51 f6 aa 1b dd 81 80 a7 5d 97 c2 5a   +.UWQ.......]..Z
+000fde75  fe ee c0 9a 81 4c 5e 0b e6 6e 52 c7 55 d9 7e 9e   .....L^..nR.U.~.
+000fde85  a1 e9 23 0e 62 0a 6f c1 aa 31 66 b7 57 c7 ce 41   ..#.b.o..1f.W..A
+000fde95  4d d5 b5 c0 11 0f cc 8e bd 76 13 96 97 35 10 f4   M........v...5..
+000fdea5  8e 48 6f 0a 5e 3d ea 39 71 bf 56 56 83 0f 63 f4   .Ho.^=.9q.VV..c.
+000fdeb5  f9 0e b2 86 e1 32 7e 29 26 de 82 82 50 58 1a f0   .....2~)&...PX..
+000fdec5  a8 bb 2a 26 e7 ff 87 24 ac 63 1f 1b 91 77 7c 76   ..*&...$.c...w|v
