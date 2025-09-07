@@ -1,0 +1,41 @@
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+
+# QC Analysis Outputs
+01_ngp_analysis/extracted/
+01_ngp_analysis/scan/
+01_ngp_analysis/members/
+01_ngp_analysis/members_zlib_raw/
+01_ngp_analysis/members_attempts/
+01_ngp_analysis/members_attempts_deep/
+
+# Backup samples (falls du die nicht versionieren willst)
+01_ngp_analysis/samples/*.json
+01_ngp_analysis/samples/*.bin
+
+# Reports (optional, nur wenn du die nicht im Repo haben willst)
+*.bin
+*.raw
+*.zip
+*.gz
+*.txt
+*.log
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# Python venv
+.venv/
+
+# Outputs
+*.bin
+*.raw
+*.txt
+*.json
+!*_meta.json
+scan/
+members*/
+
