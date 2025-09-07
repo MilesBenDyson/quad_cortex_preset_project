@@ -1,46 +1,60 @@
-\# Quad Cortex Preset Project
+# Quad Cortex Preset Project
 
+Dieses Projekt untersucht die **Backup- und Preset-Dateien** (`.json`, `.ngp`) des Neural DSP Quad Cortex.
 
+Ziel war es:
+- Preset-Ideen als `.ngp` Dateien nutzbar zu machen  
+- den Aufbau der QC-Backups zu analysieren  
+- Tools zur Verwaltung und Analyse von Backups zu entwickeln  
 
-Dieses Projekt hat das Ziel, Preset-Ideen direkt als `.ngp` Dateien für das Quad Cortex nutzbar zu machen.
+---
 
+## 📂 Projektstruktur
 
+### 01_ngp_analysis
+Analyse von existierenden Backup-Dateien:
 
-\## Unterprojekte
+- **Backup Explorer** (`backup_explorer.py`)  
+  → Listet Backups inkl. Metadaten (Author, Datum, Name)
 
+- **Diff Tool** (`backup_diff.py`)  
+  → Vergleicht Payloads blockweise und zeigt Unterschiede
 
+- Weitere Skripte:  
+  - Payload-Extraktion  
+  - String-Suche  
+  - Entropie-Analyse  
 
-\### 01\_ngp\_analysis
+### 02_ngp_generator
+Geplant: Automatische Erzeugung von Presets  
+(zurzeit noch nicht umgesetzt)
 
-Analyse von existierenden `.ngp` Dateien:
+---
 
-\- Aufbau verstehen
+## ✅ Ergebnisse
 
-\- Base64-Inhalte entschlüsseln
+- Metadaten aus Backups sind im Klartext lesbar  
+- Payload ist **vollständig verschlüsselt** (nicht nur komprimiert/obfuskiert)  
+- Selbst kleine Änderungen im Preset führen zu einem komplett neuen Ciphertext  
+- Ohne Kenntnis des Schlüssels ist eine Dekodierung aktuell nicht möglich  
 
-\- Dokumentation der Struktur
+👉 Detaillierte Analyse siehe [RESULTS.md](results.md)
 
+---
 
+## 🚀 Nutzen fürs Portfolio
 
-\### 02\_ngp\_generator
+Dieses Projekt zeigt:
+- Methodisches Vorgehen bei Datei-/Backup-Analyse  
+- Entwicklung praktischer Python-Tools  
+- Dokumentation von Grenzen und Erkenntnissen  
 
-Automatische Erzeugung von Presets:
+Damit ist es ein starkes **Showcase-Projekt** für Reverse Engineering & Python-Tooling.  
 
-\- Nutzung von Templates
+---
 
-\- Austausch von Devices und Parametern
+## 🔮 Nächste Schritte (optional)
 
-\- Export in gültige `.ngp` Dateien
-
-
-
-\## Nächste Schritte
-
-1\. Erste `.ngp` Datei vom QC exportieren und nach `01\_ngp\_analysis/samples` legen.
-
-2\. Analyse-Skript schreiben (`scripts/analyze\_ngp.py`).
-
-3\. Struktur dokumentieren.
-
-
-
+- Reverse Engineering von **Cortex Control** oder Firmware  
+- Suche nach bekannten Schlüsseln oder Hardcoded IVs  
+- Ausbau des Explorers zu einem vollständigen **Backup Manager**  
